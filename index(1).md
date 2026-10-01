@@ -1,3 +1,31 @@
+# What is nmap
+Nmap is short for Network Mapper.(I know shock) It is an open-source Linux command-line tool, that is used to scan IP addresses and ports in a network and to detect installed applications.
+Nmap allows network admins to find which devices are running on their network, discover open ports and services, and detect vulnerabilities. As well as get an overview of their company network topology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 layout: default
 ---
