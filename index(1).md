@@ -5,7 +5,14 @@ Nmap allows network admins to find which devices are running on their network, d
 
 
 
+## glossary 
 
+| scan prefix      | what the scan does                                         | three |
+|:-----------------|:-------------------------                                  |:------|
+| -sP              | Ping scan scans all devices up and running on given subnet | nice  |
+|    | good and plenty          | nice  |
+| ok               | good `oreos`             | hmm   |
+| ok               | good `zoute` drop        | yumm  |
 
 
 
